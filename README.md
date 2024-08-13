@@ -1,4 +1,4 @@
-# Boilerplate - reusable code template
+# Express API Boilerplate - reusable code template
 
 This directory contains the foundational structure for an Express.js API, including controllers, routes, and validators. The code is modularized for ease of maintenance and scalability.
 
