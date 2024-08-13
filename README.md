@@ -2,6 +2,22 @@
 
 This directory contains the foundational structure for an Express.js API, including controllers, routes, and validators. The code is modularized for ease of maintenance and scalability.
 
+
+## Table of Contents
+
+| Section                 | Link                                        |
+|----------------------|---------------------------------------------|
+| Overview             | [overview](#overview)                      |
+| Features             | [features](#features)                      |
+| Directory Structure  | [directory-structure](#directory-structure) |
+| Usage                | [usage](#usage)                           |
+| API Documentation    | [api-documentation](#api-documentation)   |
+| Test Cases           | [test-cases](#test-cases)                 |
+| Contribution         | [contribution](#contribution)             |
+| License              | [license](#license)                       |
+| Getting Started      | [getting-started](#getting-started)       |
+| FAQs                 | [faqs](#faqs)                             |
+
 ## Overview
 
 This boilerplate is designed to provide a solid foundation for building robust and scalable Express.js APIs. It includes a modularized structure, with separate modules for controllers, routes, and validators, making it easy to maintain and extend.
