@@ -133,9 +133,7 @@ To get started with this boilerplate, follow these steps:
 
 - Q: **How do I get started with this boilerplate?** A: Follow the steps outlined in the Getting Started section above.
 
----
-
-## 
+--- 
 
 ## [❤️ Sponsor Me](https://github.com/sponsors/MettaSurendhar)
 
@@ -156,3 +154,8 @@ To get started with this boilerplate, follow these steps:
 **Show your support by starring this repository!** Starring helps us gauge interest and lets others know that this project is valuable.
 
 - **Why Star?**: Starring helps indicate the project's usefulness and can attract more contributors.
+
+## [📄 Use This Template](https://github.com/new?template_name=express-api-boilerplate&template_owner=MettaSurendhar)
+
+This repository is designed as a **template** for creating Express.js APIs. You can use this template to kickstart your own projects by clicking the **Use this template** button on GitHub.
+
