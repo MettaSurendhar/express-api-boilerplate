@@ -63,7 +63,6 @@ This boilerplate is designed to provide a solid foundation for building robust a
 ## Usage
 
 To use these modules, simply require them in your Express.js application and configure them as needed.
-
 ---
 
 ## API Documentation
@@ -134,5 +133,26 @@ To get started with this boilerplate, follow these steps:
 
 - Q: **How do I get started with this boilerplate?** A: Follow the steps outlined in the Getting Started section above.
 
-## [Sponsor :heart:](https://github.com/sponsors/MettaSurendhar)
+---
 
+## 
+
+## [❤️ Sponsor Me](https://github.com/sponsors/MettaSurendhar)
+
+**If you appreciate my work and would like to support me, consider sponsoring me!** Your support helps me continue to create and maintain open-source projects.
+
+- **Why Sponsor?**: Sponsoring helps sustain the development of open-source projects and allows creators to dedicate more time to their work.
+
+
+## [🍴 Fork this Repository](https://github.com/MettaSurendhar/express-api-boilerplate/fork)
+
+**Fork this repository to customize or contribute to the project!** Forking allows you to make changes independently and contribute back through pull requests.
+
+- **Why Fork?**: Forking lets you create your own copy of the project for personal modifications or development, and it enables collaboration through pull requests.
+
+
+## [🌟 Star this Repository](https://github.com/MettaSurendhar/express-api-boilerplate)
+
+**Show your support by starring this repository!** Starring helps us gauge interest and lets others know that this project is valuable.
+
+- **Why Star?**: Starring helps indicate the project's usefulness and can attract more contributors.
