@@ -104,16 +104,6 @@ To run the tests, make sure you have `mocha`, `chai`, and `chai-http` installed.
 
 ---
 
-## Contribution
-
-Contributions to enhance the structure or add new features to this boilerplate are welcome. Please follow the guidelines provided in the main repository's README.
-
-## License
-
-This project is licensed under the MIT License. Refer to the main repository's LICENSE file for more information.
-
----
-
 ## Getting Started
 
 To get started with this boilerplate, follow these steps:
@@ -122,6 +112,16 @@ To get started with this boilerplate, follow these steps:
 2. Install the required dependencies using npm or yarn
 3. Configure the modules as needed for your application
 4. Start building your API!
+   
+---
+
+## Contribution
+
+Contributions to enhance the structure or add new features to this boilerplate are welcome. Please follow the guidelines provided in the main repository's README.
+
+## License
+
+This project is licensed under the MIT License. Refer to the main repository's LICENSE file for more information.
 
 ---
 
